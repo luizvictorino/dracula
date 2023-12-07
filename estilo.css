@@ -1,0 +1,47 @@
+body{
+    background-color: #000000;
+}
+
+div{
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    color: antiquewhite;
+    border: 2px solid #ff1415;
+    padding: 30px 60px 80px 60px;
+}
+
+img{
+    width: 350px;
+}
+
+h1{
+    font-family: impact;
+    font-size: 28px;
+    color: #ff1415;
+    margin: 50px opx;
+}
+
+p{
+    font-family: verdana;
+    font-size: 18px;
+    margin-bottom: 80px;
+    color: rgb(180, 50, 50);
+    font-weight: normal;
+    font-style: italic;
+    line-height: 25px;
+}
+
+a{
+    font-family: verdana;
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #ff1415;
+    padding: 15px 35px;
+}
+
+span{
+    font-weight: bold;
+    color: #ff1415;
+}
